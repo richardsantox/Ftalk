@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(238, 255, 240);
+    line-height: 1.7;
+}
+
+#ques{
+    min-height: 433px;
+}
+
+.nao-entra{
+    margin-top: 5.2rem;
+}
+
+.linha{
+    opacity: 0.6; 
+	border: 1px solid; 
+    color: var(--roxo);
+}
+
+.card-regras {
+    max-width: 22.5rem;
+    border-color: var(--roxo);
+}
+
+.card-regras a{
+    color: var(--roxo);
+}
+
+a.cor-regras:hover{
+    color: var(--verde);
+}
+
+.card-direita{
+    background-color: var(--roxo);
+    max-width: 22.5rem;
+}
+
+
